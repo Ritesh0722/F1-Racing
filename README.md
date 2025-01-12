@@ -20,3 +20,7 @@ The data is sourced from the Ergest Developer API, providing tables such as circ
 2. **Azure Data Lake Gen2 (Delta Lake / LakeHouse)**: For hierarchical storage and utilizing delta tables.
 3. **Azure Data Factory**: For pipeline orchestration for Databricks Notebook.
 4. **Azure Key Vault**: For storing secrets for ADLS credentials used in the Databricks Notebook.
+
+Project Architecture:
+![image](https://github.com/user-attachments/assets/3d1676c7-3c47-4e7a-b2f1-d315bff24a19)
+
